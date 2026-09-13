@@ -1,8 +1,8 @@
 class Lidhold < Formula
   desc "Keep your Mac awake with the lid closed while coding agents work"
   homepage "https://lidhold.app"
-  url "https://github.com/aanjaneykumarverma/homebrew-tap/releases/download/v0.1.0/lidhold-0.1.0-macos-arm64.tar.gz"
-  sha256 "fec26bc733014b81b1af5b2c3c3aab4e5bc568126ad6481badaef0700e79edfc"
+  url "https://github.com/aanjaneykumarverma/homebrew-tap/releases/download/v0.2.0/lidhold-0.2.0-macos-arm64.tar.gz"
+  sha256 "32e3dc7fd44984fa95dbfb65c99e9148187d6f9a578597843273e1d98b36bf03"
   license :cannot_represent
 
   depends_on arch: :arm64
