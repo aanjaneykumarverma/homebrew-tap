@@ -1,6 +1,6 @@
 # homebrew-tap
 
-Homebrew formula and release binaries for [lidhold](https://github.com/aanjaneykumarverma/homebrew-tap), which keeps your Mac
+Homebrew formula and release binaries for [lidhold](https://lidhold.app), which keeps your Mac
 awake with the lid closed while coding agents work.
 
 ```sh
