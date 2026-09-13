@@ -3,11 +3,10 @@ class Lidhold < Formula
   homepage "https://github.com/aanjaneykumarverma/homebrew-tap"
   url "https://github.com/aanjaneykumarverma/homebrew-tap/releases/download/v0.1.0/lidhold-0.1.0-macos-arm64.tar.gz"
   sha256 "fec26bc733014b81b1af5b2c3c3aab4e5bc568126ad6481badaef0700e79edfc"
-  version "0.1.0"
   license :cannot_represent
 
-  depends_on :macos
   depends_on arch: :arm64
+  depends_on :macos
 
   def install
     bin.install "lidhold"
